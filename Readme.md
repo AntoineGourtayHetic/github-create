@@ -4,8 +4,8 @@ How to install :
 git clone https://github.com/armandfardeau/github-create.git
 ```
 
-In your .zshrc file or bash profile , copy the following:
+copy the following to your terminal, adapt to your configuration:
 
 ```sh 
-source ~/github-create/github-create
+echo "source ~/github-create/github-create" >> ~/.zshrc
 ```
