@@ -15,5 +15,5 @@ How to use :
 
 in a git repository
 ```sh
-gihub-create
+github-create
 ```
