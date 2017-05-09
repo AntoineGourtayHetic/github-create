@@ -1,7 +1,7 @@
-How to install :
+How to install on zsh :
 
 ```sh
-git clone https://github.com/armandfardeau/github-create.git
+cd ~ && git clone https://github.com/armandfardeau/github-create.git
 ```
 
 copy the following to your terminal, adapt to your configuration:
